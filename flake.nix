@@ -12,7 +12,7 @@
       typst = {
         path = ./typst;
         description = "Typst";
-      }
+      };
     };
   };
 }
