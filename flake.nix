@@ -9,6 +9,10 @@
           path = ./flake-mkShell;
           description = "Nix flake mkShell template";
       };
+      typst = {
+        path = ./typst;
+        description = "Typst";
+      }
     };
   };
 }
