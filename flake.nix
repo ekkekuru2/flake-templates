@@ -13,6 +13,10 @@
         path = ./typst;
         description = "Typst";
       };
+      pnpm = {
+        path = ./pnpm;
+        description = "nodejs, pnpm and typescript";
+      };
     };
   };
 }
